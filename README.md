@@ -7,3 +7,8 @@
 
 ## CONTACTO
 <a href="https://wa.me/51995386439?text=Wenas...+me+ayudas+con+el+bot+multidevice+:)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+<p align="center">
+<img src="./media/pornhub.jpg" width="140" height="140"/>
+<p align="center">
