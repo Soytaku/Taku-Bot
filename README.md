@@ -1,5 +1,5 @@
 <div align="center"><h3> Bienvenid@! </h3>
-# BOT EN PROCESO
+#BOT EN PROCESO...
 
 <P align="center">
 [ Taku-Bot ]
