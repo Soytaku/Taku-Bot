@@ -63,31 +63,9 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-let buttonMessage = {
-document: imagen3, 
-fileName: `𝚃𝙰𝙺𝚄-𝙱𝙾𝚃-𝚇𝙳⁩`, 
-mimetype: `application/${document}`,
-jpegThumbnail: imagen3,
-caption: text,
-fileLength: "99999999999999",
-mentions: [user],
-footer: groupMetadata.subject,
-buttons: buttons,
-headerType: 4,   
-contextInfo: {
-'forwardingScore': 200,
-'isForwarded': true,
-"mentionedJid": [user],
-"externalAdReply": {
-"showAdAttribution": false,
-"title": `wa.me/5493772642151`,
-"mediaType": 2, 
-"previewType": "pdf",
-"thumbnail": apii.data,
-"mediaUrl": 'https://youtu.be/',
-"sourceUrl": 'https://www.pornhub.com' }}} 
-this.sendMessage(id, buttonMessage, fake)                          
-}}}
+title: 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ',
+body: '©𝑇𝑎𝑘𝑢-𝐵𝑜𝑡', 
+sourceUrl: `https://github.com/
 *𝙷𝙾𝙻𝙰, @user👋 𝙰𝚀𝚄𝙸 𝚃𝙸𝙴𝙽𝙴𝚂 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙰𝙺𝚄-𝙱𝙾𝚃-𝚇𝙳❤*
 
 ┌──「 𝐓𝐀𝐊𝐔-𝐁𝐎𝐓 」─
