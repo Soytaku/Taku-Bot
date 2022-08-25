@@ -30,3 +30,8 @@ $ npm start
 
 ### DISFRUTA DEL BOT 
 BY Taku-Bot/Taku ;)
+
+
+### Creditos
+
+* [`@BochilGaming/games-wabot`](https://github.com/BochilGaming/games-wabot)
