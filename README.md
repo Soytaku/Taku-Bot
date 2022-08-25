@@ -37,5 +37,5 @@ BY Taku-Bot/Taku ;)
 <p align="center">
 	<img src="https://telegra.ph/file/f6ec273c47a76a2fa6971.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">DADDY-MD</h1>
+<h1 align="center">SOY TAKU</h1>
 
